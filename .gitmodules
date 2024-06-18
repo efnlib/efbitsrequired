@@ -1,0 +1,4 @@
+[submodule "eflog2"]
+	path = eflog2
+	url = https://github.com/efnlib/eflog2.git
+	branch = master
